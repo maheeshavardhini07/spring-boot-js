@@ -1,0 +1,4 @@
+com\kgisl\sb4\entity\Book.class
+com\kgisl\sb4\Sb4Application.class
+com\kgisl\sb4\repository\BookRepository.class
+com\kgisl\sb4\controller\BookController.class
